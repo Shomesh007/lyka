@@ -1,0 +1,5 @@
+{
+  "name": "GitGemini - AI Repo Editor",
+  "description": "A powerful repository viewer and editor powered by Gemini. Browse public GitHub repositories, edit code in-browser, and use Gemini to refactor, fix bugs, or explain code.",
+  "requestFramePermissions": []
+}
